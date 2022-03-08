@@ -2,9 +2,9 @@
 💻 Estudando atualmente para carreira de front-end
 
 <div align="center">
-  <a href="https://github.com/joaoguimaraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoguimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguimaraes&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joaopsguimaraes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopsguimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopsguimaraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
