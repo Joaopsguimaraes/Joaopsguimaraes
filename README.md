@@ -1,5 +1,5 @@
-## Olá a Todos 🖖
-💻 Estudando atualmente para carreira de front-end
+## Hi there 🖖
+👨🏻‍💻 My name is Joao Guimaraes and I'm starting my development career
 
 <div align="center">
   <a href="https://github.com/joaopsguimaraes">
