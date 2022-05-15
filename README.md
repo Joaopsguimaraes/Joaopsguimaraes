@@ -1,16 +1,12 @@
 ## Hi there 🖖
-👨🏻‍💻 #### My name is Joao Guimaraes and I'm starting my development career
+### My name is Joao Guimaraes and I'm starting my development career
 
 <div align="center">
   <a href="https://github.com/joaopsguimaraes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopsguimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopsguimaraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  
-    ### Languages I am studying:
-  
-  
+   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
