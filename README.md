@@ -2,6 +2,13 @@
 
 I'm João Guimarães, a hands-on Software Engineering, and I've been working in tech since 2018. 
 
+
+### A bit about my journey:  
+I started my career navigating through different stacks, from Java and C# to JavaScript and modern web frameworks. Over time, I specialized in frontend (Angular / React) and backend development (Java / Node), working on projects that impact real users.
+
+###  Currently working with:  
+Angular, React, Java  and NextJs , helping build great digital experiences.  
+
 ____
 
 
