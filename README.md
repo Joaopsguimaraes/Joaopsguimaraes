@@ -12,17 +12,6 @@ Emitte: building fiscal and dashboard systems with Next.js and React, integratin
 
 Kingspan Isoeste: developing fullstack systems across finance, engineering, and sales using Angular, React, and Java, including the creation of a full design system.
 
-🧰 Currently working with:
-Frontend: Angular, React, Next.js, Vue
-
-Backend: Java (Spring Boot), Node.js, NestJS
-
-Databases: PostgreSQL, MySQL
-
-Security & Infra: OAuth2, JWT, Docker, AWS
-
-Tools & Practices: CI/CD, Git, Design Systems, Clean Architecture, DDD, SOLID principles
-
 🌎 Languages:
 Portuguese (native)
 
