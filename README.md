@@ -1,31 +1,18 @@
-👋 Hi there! I'm João Guimarães
-I'm a Software Engineer passionate about building scalable, performant, and user-focused applications. I’ve been working in tech since 2018, contributing to solutions that make a real difference for users and businesses.
+### 👋 Hi there! I'm João Guimarães
 
-🚀 A bit about my journey:
-I started my career exploring a variety of technologies, from Java and C# to JavaScript and modern frontend frameworks. Over time, I specialized in frontend (Angular, React, Vue) and backend development (Java with Spring Boot, Node.js, NestJS).
+I'm a Fullstack Software Engineer passionate about building scalable, performant, and user-focused applications. I’ve been working in tech since 2018, contributing to solutions that make a real difference for users and businesses.
+
+### 🚀 A bit about my journey:
+I started my career exploring a variety of technologies, from **Java** and **C#** to **JavaScript** and modern frontend frameworks. Over time, I specialized in **frontend (Angular, React, Vue)** and **backend development (Java with Spring Boot, Node.js, NestJS)**.
 
 I've worked in companies like:
+- **Bext**: delivering real estate credit simulation tools with Vue.js and TypeScript.
+- **Emitte**: building fiscal and dashboard systems with Next.js and React, integrating complex APIs.
+- **Kingspan Isoeste**: developing fullstack systems across finance, engineering, and sales using Angular, React, and Java, including the creation of a full design system.
 
-Bext: delivering real estate credit simulation tools with Vue.js and TypeScript.
+---
 
-Emitte: building fiscal and dashboard systems with Next.js and React, integrating complex APIs.
-
-Kingspan Isoeste: developing fullstack systems across finance, engineering, and sales using Angular, React, and Java, including the creation of a full design system.
-
-🌎 Languages:
-Portuguese (native)
-
-English (intermediate – good reading and capable of communicating in technical contexts)
-
-📌 I’m always open to learning new things, contributing to impactful projects, and collaborating with great teams. Let’s connect!
-
-____
-
-
-## ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
-
+### 🧰 Tech Stack
 
 **Backend**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -66,3 +53,18 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovpsguimaraes&show_icons=true&theme=default" alt="João's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpsguimaraes&layout=compact&langs_count=10&theme=default" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joaovpsguimaraes/)
+- [Email](mailto:joaovpsguimaraes@gmail.com)
