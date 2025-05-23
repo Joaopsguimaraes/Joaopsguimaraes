@@ -55,15 +55,6 @@ I've worked in companies like:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaovpsguimaraes&show_icons=true&theme=default" alt="João's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovpsguimaraes&layout=compact&langs_count=10&theme=default" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/joaovpsguimaraes/)
