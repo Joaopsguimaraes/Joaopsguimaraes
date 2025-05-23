@@ -1,13 +1,34 @@
-### Hi there 👋
+👋 Hi there! I'm João Guimarães
+I'm a Software Engineer passionate about building scalable, performant, and user-focused applications. I’ve been working in tech since 2018, contributing to solutions that make a real difference for users and businesses.
 
-I'm João Guimarães, a hands-on Software Engineering, and I've been working in tech since 2018. 
+🚀 A bit about my journey:
+I started my career exploring a variety of technologies, from Java and C# to JavaScript and modern frontend frameworks. Over time, I specialized in frontend (Angular, React, Vue) and backend development (Java with Spring Boot, Node.js, NestJS).
 
+I've worked in companies like:
 
-### A bit about my journey:  
-I started my career navigating through different stacks, from Java and C# to JavaScript and modern web frameworks. Over time, I specialized in frontend (Angular / React) and backend development (Java / Node), working on projects that impact real users.
+Bext: delivering real estate credit simulation tools with Vue.js and TypeScript.
 
-###  Currently working with:  
-Angular, React, Java  and NextJs , helping build great digital experiences.  
+Emitte: building fiscal and dashboard systems with Next.js and React, integrating complex APIs.
+
+Kingspan Isoeste: developing fullstack systems across finance, engineering, and sales using Angular, React, and Java, including the creation of a full design system.
+
+🧰 Currently working with:
+Frontend: Angular, React, Next.js, Vue
+
+Backend: Java (Spring Boot), Node.js, NestJS
+
+Databases: PostgreSQL, MySQL
+
+Security & Infra: OAuth2, JWT, Docker, AWS
+
+Tools & Practices: CI/CD, Git, Design Systems, Clean Architecture, DDD, SOLID principles
+
+🌎 Languages:
+Portuguese (native)
+
+English (intermediate – good reading and capable of communicating in technical contexts)
+
+📌 I’m always open to learning new things, contributing to impactful projects, and collaborating with great teams. Let’s connect!
 
 ____
 
